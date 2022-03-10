@@ -17,6 +17,12 @@ body {
   align-items: center;
   padding: 80px 13%;
 }
+.about-left {
+    width: 30%;
+}
+.about-left img {
+    width: 100%;
+}
 .about-right{
   width: 57%;
 }
